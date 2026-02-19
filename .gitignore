@@ -1,0 +1,7 @@
+mini-pass
+mini-pass.exe
+
+pass.dat
+*.dat
+
+*.o
